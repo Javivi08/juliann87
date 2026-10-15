@@ -3,7 +3,7 @@ Hola me llamo Julián Van Der Mark López!
 Soy estudiante de [cuatrovientos](https://www.cuatrovientos.org)
 
 Estudio varias asignaturas como -->
-- BBDD
+- Bases De Datos
 - SQL
 - Java
 - C#
